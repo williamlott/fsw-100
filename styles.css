@@ -1,0 +1,19 @@
+html,body {
+    text-align: center;
+    background-color: lightslategray;
+}
+h1 {color:#FF0000;
+    font-size: 0.3em;
+}
+h6 {
+    color: #000080;
+}
+img {
+    width: 300px;
+    height: auto;
+    padding-bottom: 50px;
+    align-content: center;
+}
+div {
+    text-align: center;
+}
